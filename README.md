@@ -16,11 +16,10 @@ In the `data` directory, you will find the following CSV files:
 - `True.csv`: This CSV file contains data about true news articles.
 - `Fake.csv`: This CSV file contains data about fake news articles.
 
-These datasets are essential for training and testing NLP models.
 
 ## Jupyter Notebook
 
-Explore and analyze the data with the Jupyter notebook provided in this repository. The notebook can be a helpful starting point for understanding the data and experimenting with NLP techniques.
+Explore and analyze the data with the Jupyter notebook provided in this repository. 
 
 ## Preprocessing Script
 
